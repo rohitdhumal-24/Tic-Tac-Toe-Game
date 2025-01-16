@@ -6,7 +6,7 @@ let msg =document.querySelector("#msg");
 
 let turnO = true ;// playerX ,playerY.
 
-const WinPatterns = [   // Expectedd combinations of winners !!
+const WinPatterns = [   // Expected combinations of winners !!
     [ 0 , 1 , 2 ],
     [ 0 , 3 , 6 ],
     [ 0 , 4 , 8 ],
