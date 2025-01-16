@@ -2,7 +2,7 @@
 Tic-Tac-Toe-Game Using the HTML, Css and Javascript.
 
 
-![🎮 Tic-Tac-Toe Game](successful.png)
+![🎮 Tic-Tac-Toe Game](unsuccessful.png)
 
 ## 📝 Description
 
@@ -38,7 +38,7 @@ The **Tic-Tac-Toe Game** is a simple, interactive implementation of the classic 
 
 Here's how the game looks in action:
 
-![🎉 Game Screenshot](unsuccessful.png)
+![🎉 Game Screenshot for successful turn](successful.png)
 
 ## 🎮 How to Play
 
