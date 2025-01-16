@@ -38,7 +38,7 @@ The **Tic-Tac-Toe Game** is a simple, interactive implementation of the classic 
 
 Here's how the game looks in action:
 
-![🎉 Game Screenshot](successful.png)
+![🎉 Game Screenshot](unsuccessful.png)
 
 ## 🎮 How to Play
 
