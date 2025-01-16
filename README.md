@@ -57,19 +57,13 @@ Here's how the game looks in action:
 
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
 
-## 📜 License
+## Contributors
+- **Rohit Dhumal**
+  - Role: Developer
+  - Contact: rohitdhumal248@gmail.com
+  - If you enjoyed this project, feel free to connect with me on [GitHub](https://github.com/rohitdhumal-24)!
 
-This project is licensed under the [MIT License](LICENSE).
 
----
+Thank you for exploring the **Tic-Toc-Toe** application! Feedback is welcome.
 
 🎉 **Enjoy playing Tic Tac Toe!** 🎉
-
-
-
-### 🔗 Connect with Me
-
-If you enjoyed this project, feel free to connect with me on [GitHub](https://github.com/rohitdhumal-24)!
-
----
-
